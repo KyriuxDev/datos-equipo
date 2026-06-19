@@ -1,0 +1,25 @@
+# Entorno virtual
+venv/
+
+# Build artifacts de PyInstaller
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Variables de entorno / secretos
+.env
+*.env
+
+*.spec
